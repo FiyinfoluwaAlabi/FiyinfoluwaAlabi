@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FiyinfoluwaAlabi
-- 👀 I’m interested in data, design, graphics and a lot more
+- 👀 I’m interested in data, project management, graphics and a lot more
 - 🌱 I’m currently learning data analytics and data science
 - 💞️ I’m looking to collaborate on learning more on data and growth
 - 📫 How to reach me: fiyinfoluwa.alabi@stu.cu.edu.ng
